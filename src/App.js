@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 //1. react-router-dom 설치.
-// react-router-dom은 아주 멋잇는 컴포넌트들의 모음집.
+//react-router-dom은 아주 멋잇는 컴포넌트들의 모음집.
+
 import Detail from "./routes/Detail";
 import Home from "./routes/Home";
 function App() {
